@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adfct",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0067d89-ddf2-4e4c-b160-d4dd1a5a2577",
+		"tenantId": "bce48c9e-5b32-48d9-8d6d-bc45636e6aa7"
+	}
+}
